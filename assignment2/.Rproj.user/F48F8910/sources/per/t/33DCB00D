@@ -1,0 +1,32 @@
+{
+    "id": "33DCB00D",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1599849642546.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "expression": "top_colleges",
+        "caption": "top_colleges",
+        "totalObservations": "26",
+        "displayedObservations": "26",
+        "variables": "21",
+        "cacheKey": "CC13DE4F",
+        "object": "top_colleges",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=top_colleges&cache_key=CC13DE4F&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3547182978862834021,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1599849642546,
+    "read_only": false,
+    "read_only_alternatives": []
+}

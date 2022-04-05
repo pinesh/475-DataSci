@@ -1,0 +1,32 @@
+{
+    "id": "C5A881FE",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607998178845.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "expression": "regional_demographics",
+        "caption": "regional_demographics",
+        "totalObservations": "36",
+        "displayedObservations": "36",
+        "variables": "3",
+        "cacheKey": "FD1C520E",
+        "object": "regional_demographics",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=regional_demographics&cache_key=FD1C520E&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3611922223838277684,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607998178845,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "52FE0A44",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1602274081758.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "warm_group",
+        "caption": "warm_group",
+        "totalObservations": "42",
+        "displayedObservations": "42",
+        "variables": "2",
+        "cacheKey": "88A8AB3D",
+        "object": "warm_group",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=warm_group&cache_key=88A8AB3D&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3543827368372088885,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1602274081758,
+    "read_only": false,
+    "read_only_alternatives": []
+}

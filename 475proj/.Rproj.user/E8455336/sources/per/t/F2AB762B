@@ -1,0 +1,32 @@
+{
+    "id": "F2AB762B",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608001760136.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "expression": "region_stn",
+        "caption": "region_stn",
+        "totalObservations": 36,
+        "displayedObservations": 36,
+        "variables": 2,
+        "cacheKey": "5007A253",
+        "object": "region_stn",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=region_stn&cache_key=5007A253&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 6876556136554918517,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608001760136,
+    "read_only": false,
+    "read_only_alternatives": []
+}

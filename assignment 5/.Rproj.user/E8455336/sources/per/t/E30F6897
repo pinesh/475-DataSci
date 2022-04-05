@@ -1,0 +1,26 @@
+{
+    "id": "E30F6897",
+    "path": "~/r/assignment 5/assign5.R",
+    "project_path": "assign5.R",
+    "type": "r_source",
+    "hash": "53396075",
+    "contents": "",
+    "dirty": false,
+    "created": 1604260555867.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "222,2",
+        "scrollLine": "0",
+        "notebook_format": "pdf_document"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604302290,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604302290545,
+    "read_only": false,
+    "read_only_alternatives": []
+}
