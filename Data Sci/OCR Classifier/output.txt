@@ -1,0 +1,97 @@
+FORTUNE COOKIE DATA
+
+iteration- 1  train-mistakes:  137  test-mistakes:  67
+iteration- 2  train-mistakes:  54  test-mistakes:  58
+iteration- 3  train-mistakes:  30  test-mistakes:  50
+iteration- 4  train-mistakes:  13  test-mistakes:  35
+iteration- 5  train-mistakes:  7  test-mistakes:  33
+iteration- 6  train-mistakes:  2  test-mistakes:  33
+iteration- 7  train-mistakes:  2  test-mistakes:  33
+iteration- 8  train-mistakes:  2  test-mistakes:  33
+iteration- 9  train-mistakes:  2  test-mistakes:  33
+iteration- 10  train-mistakes:  2  test-mistakes:  33
+iteration- 11  train-mistakes:  2  test-mistakes:  33
+iteration- 12  train-mistakes:  2  test-mistakes:  33
+iteration- 13  train-mistakes:  2  test-mistakes:  33
+iteration- 14  train-mistakes:  2  test-mistakes:  33
+iteration- 15  train-mistakes:  2  test-mistakes:  33
+iteration- 16  train-mistakes:  2  test-mistakes:  33
+iteration- 17  train-mistakes:  2  test-mistakes:  33
+iteration- 18  train-mistakes:  2  test-mistakes:  33
+iteration- 19  train-mistakes:  2  test-mistakes:  33
+iteration- 20  train-mistakes:  2  test-mistakes:  33
+
+
+iteration- 1  training-Accuracy : 0.5745341614906833  testing-Accuracy:  0.33663366336633666
+iteration- 2  training-Accuracy : 0.8322981366459627  testing-Accuracy:  0.42574257425742573
+iteration- 3  training-Accuracy : 0.906832298136646  testing-Accuracy:  0.504950495049505
+iteration- 4  training-Accuracy : 0.9596273291925466  testing-Accuracy:  0.6534653465346535
+iteration- 5  training-Accuracy : 0.9782608695652174  testing-Accuracy:  0.6732673267326733
+iteration- 6  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 7  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 8  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 9  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 10  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 11  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 12  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 13  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 14  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 15  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 16  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 17  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 18  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 19  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+iteration- 20  training-Accuracy : 0.9937888198757764  testing-Accuracy:  0.6732673267326733
+
+training-accuracy-standard-perceptron:  0.9937888198757764  training-accuracy-averaged-perceptron:  0.9720496894409938
+testing-accuracy-standard-perceptron:  0.6732673267326733  testing-accuracy-averaged-perceptron:  0.3465346534653465
+
+
+
+OCR DATA
+
+iteration- 1  train-mistakes:  1526  test-mistakes:  20714
+iteration- 2  train-mistakes:  1507  test-mistakes:  18243
+iteration- 3  train-mistakes:  1470  test-mistakes:  18125
+iteration- 4  train-mistakes:  1486  test-mistakes:  19150
+iteration- 5  train-mistakes:  1494  test-mistakes:  20961
+iteration- 6  train-mistakes:  1485  test-mistakes:  19754
+iteration- 7  train-mistakes:  1504  test-mistakes:  22196
+iteration- 8  train-mistakes:  1450  test-mistakes:  19124
+iteration- 9  train-mistakes:  1457  test-mistakes:  19819
+iteration- 10  train-mistakes:  1468  test-mistakes:  18546
+iteration- 11  train-mistakes:  1482  test-mistakes:  20535
+iteration- 12  train-mistakes:  1482  test-mistakes:  18903
+iteration- 13  train-mistakes:  1492  test-mistakes:  18424
+iteration- 14  train-mistakes:  1515  test-mistakes:  19639
+iteration- 15  train-mistakes:  1480  test-mistakes:  19244
+iteration- 16  train-mistakes:  1509  test-mistakes:  20337
+iteration- 17  train-mistakes:  1500  test-mistakes:  18582
+iteration- 18  train-mistakes:  1470  test-mistakes:  18813
+iteration- 19  train-mistakes:  1474  test-mistakes:  18985
+iteration- 20  train-mistakes:  1488  test-mistakes:  21294
+
+
+iteration- 1  training-Accuracy : 0.669482347844921  testing-Accuracy:  0.5642368780898286
+iteration- 2  training-Accuracy : 0.6735975741823695  testing-Accuracy:  0.6162196276427895
+iteration- 3  training-Accuracy : 0.6816114359974009  testing-Accuracy:  0.6187020090459662
+iteration- 4  training-Accuracy : 0.6781459822395495  testing-Accuracy:  0.5971389502471863
+iteration- 5  training-Accuracy : 0.6764132553606238  testing-Accuracy:  0.559040706847586
+iteration- 6  training-Accuracy : 0.6783625730994152  testing-Accuracy:  0.5844325234038077
+iteration- 7  training-Accuracy : 0.6742473467619666  testing-Accuracy:  0.5330598506363732
+iteration- 8  training-Accuracy : 0.6859432531947152  testing-Accuracy:  0.5976859156411065
+iteration- 9  training-Accuracy : 0.6844271171756552  testing-Accuracy:  0.5830651099190071
+iteration- 10  training-Accuracy : 0.6820446177171323  testing-Accuracy:  0.6098453770905649
+iteration- 11  training-Accuracy : 0.6790123456790124  testing-Accuracy:  0.5680025244556642
+iteration- 12  training-Accuracy : 0.6790123456790124  testing-Accuracy:  0.6023351214894288
+iteration- 13  training-Accuracy : 0.6768464370803552  testing-Accuracy:  0.612411907015883
+iteration- 14  training-Accuracy : 0.6718648473034438  testing-Accuracy:  0.5868517934153782
+iteration- 15  training-Accuracy : 0.6794455273987438  testing-Accuracy:  0.5951614599768592
+iteration- 16  training-Accuracy : 0.673164392462638  testing-Accuracy:  0.5721678763016724
+iteration- 17  training-Accuracy : 0.6751137102014295  testing-Accuracy:  0.6090880403912906
+iteration- 18  training-Accuracy : 0.6816114359974009  testing-Accuracy:  0.6042284632376144
+iteration- 19  training-Accuracy : 0.680745072557938  testing-Accuracy:  0.6006100767855265
+iteration- 20  training-Accuracy : 0.6777128005198181  testing-Accuracy:  0.5520353423792994
+
+training-accuracy-standard-perceptron:  0.6777128005198181  training-accuracy-averaged-perceptron:  0.6742473467619666
+testing-accuracy-standard-perceptron:  0.5520353423792994  testing-accuracy-averaged-perceptron:  0.613106132323551
